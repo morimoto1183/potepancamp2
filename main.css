@@ -1,0 +1,14 @@
+h3{
+  font-size: 40px;
+}
+
+#timer{
+  font-size: 40px;
+  margin-bottom: 15px;
+}
+
+#start,#stop,#reset{
+  line-height: 30px;
+  cursor: pointer;
+  margin-right: 20px;
+}
